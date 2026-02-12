@@ -25,4 +25,4 @@ g++ main.cpp -o bunker.exe -Wl,-subsystem,console
 Then run:
 .\bunker.exe
 
-Developed by Smorkys (DANIYAR)
+Developed by Rakhmangali, Murat and Daniyar
